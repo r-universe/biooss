@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mistral"]
+	path = mistral
+	url = https://github.com/cran/mistral
+	shallow = true
+	registered = true
+[submodule "sensitivity"]
+	path = sensitivity
+	url = https://github.com/cran/sensitivity
+	shallow = true
+	registered = true
